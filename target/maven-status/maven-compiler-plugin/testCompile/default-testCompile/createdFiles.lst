@@ -1,0 +1,13 @@
+Pages\L03_productLocators.class
+stepDefs\TC02_loginSteps.class
+Pages\L01_SignupLocators.class
+testRunner\runners.class
+stepDefs\TC01_signUpSteps.class
+Pages\storeDetails.class
+Pages\L04_cartLocators.class
+stepDefs\Hooks.class
+Pages\L05_CheckOutLocators.class
+stepDefs\TC03_productSteps.class
+stepDefs\TC05_CheckOutSteps.class
+Pages\L02_LoginLocators.class
+stepDefs\TC04_cartValidation.class
